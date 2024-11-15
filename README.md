@@ -94,4 +94,5 @@ To further develop this project, consider:
 ## License
 This project is licensed under the MIT License.
 
+https://github.com/SimonaJS/NLP-Analysis-and-Sentiment-Prediction-/blob/main/NLP_Analysis_Sentiment_Prediction_PP.pptx
 ---
